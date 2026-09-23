@@ -80,7 +80,7 @@ A stronger follow-up study could add multiple years, infrastructure variables, p
 mobility-economy-analysis/
 ├── README.md
 ├── mobility_economy_analysis.ipynb
-├── ladb_mobility_economy_2024_clean.csv
+├── ladb_mobility_economy_2024.csv
 ├── oecd_city_economy.csv
 └── .gitignore
 ```
